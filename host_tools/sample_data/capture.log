@@ -1,0 +1,15 @@
+I (10) boot: bootloader done
+I (20) freq: Digital frequency meter starting (PCNT + gptimer)
+I (30) freqcnt: PCNT ready: GPIO 4, high_limit=30000, gate=1s
+DATA    1.00 Hz mode=P count=1 gate=1s elapsed=1.0001s
+DATA   10.00 Hz mode=F count=10 gate=1s elapsed=1.0001s
+DATA  100.00 Hz mode=F count=100 gate=1s elapsed=1.0001s
+DATA   1.000 kHz mode=F count=1000 gate=1s elapsed=1.0001s
+DATA  10.000 kHz mode=F count=10000 gate=1s elapsed=1.0001s
+DATA 100.000 kHz mode=F count=100000 gate=1s elapsed=1.0001s
+DATA   1.0000 MHz mode=F count=1000000 gate=1s elapsed=1.0001s
+DATA   1.0000 MHz mode=F count=1000010 gate=1s elapsed=1.0001s
+[gate=5 s]
+DATA   1.0000 MHz mode=F count=5000050 gate=5s elapsed=5.0001s
+[cal] 10.000 Hz @ 1 MHz target -> offset 10 ppm saved
+DATA   1.0000 MHz mode=F count=5000000 gate=5s elapsed=5.0001s
